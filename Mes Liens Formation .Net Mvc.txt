@@ -1,0 +1,42 @@
+Formation payante
+https://dyma.fr/developer/list/chapters/core
+
+Revision C#
+https://www.w3schools.com/cs/index.php
+https://www.youtube.com/results?search_query=linq+c%23+francais
+
+
+
+projet Asp.net core mvc
+
+Tutoriel Étape par Étape: Application Complète CRUD avec ASP.NET Core MVC & Entity Framework Core
+https://www.youtube.com/watch?v=uBFg1azlG-8&t=67s
+
+EP 32 Employees Management System With EFCore,MS SQL ASP.NET.CORE,Multiple User Approval Workflows
+https://www.youtube.com/watch?v=PaV22vrANQg&list=PLHeVx_crBwV8-CFDeGQpUMoAP-PCIZKai
+
+Asp.Net Core Web API CRUD with Angular
+https://www.youtube.com/watch?v=OZGdKYzUYvU&list=PLjC4UKOOcfDQtElvsn1ZCAHatLtqDrTgQ&index=1
+
+Part 1️⃣ | Employee Management System with .NET 8 Blazor Wasm & API: building database models
+https://www.youtube.com/watch?v=pFrUhAI6RW0&list=PL285LgYq_FoKoxiqmUEgVX3_wFf1ioi3J&index=2
+https://www.youtube.com/watch?v=pFrUhAI6RW0&list=PL285LgYq_FoKoxiqmUEgVX3_wFf1ioi3J&index=4
+
+CRUD Operations using ASP.NET Core MVC, Entity Framework and SQL Server | Create Read Update delete
+https://www.youtube.com/watch?v=SfWuOFEatYc
+
+Full C# Project: Inventory Management System | ASP.NET Core Blazor, EF Core, SQL Server, Identity
+https://www.youtube.com/watch?v=FupLQ7y9oy0&list=PLgRlicSxjeMPVnqQArKPS2k_iOct61q3O
+
+Introduction to ASP.NET Core MVC (.NET 8)
+https://www.youtube.com/watch?v=AopeJjkcRvU
+
+Git
+https://www.youtube.com/watch?v=D5QGiIM1j20&list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP&index=17
+Comprendre Git (11/18) : Fork & Pull request
+
+Serge tahé
+https://tahe.developpez.com/dotnet/ef5cf/?page=page_2#LII-B-1
+
+Les commandes de base de l’invite de commande CMD Windows  (cd, dir, mkdir, …)
+https://www.malekal.com/les-commandes-de-base-invite-de-commande-cmd-windows/
